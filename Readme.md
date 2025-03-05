@@ -1,8 +1,14 @@
-# Django Todo - Tutorial Belajar Django
+# Django Todo 
 
-Django Todo ini adalah source code dari proyek yang saya buat di **Tutorial Django Untuk Pemula** di channel Youtube: https://www.youtube.com/c/UpKoding
+Django Todo ini adalah source code dari proyek yang saya buat untuk memenuhi tugas saya. 
 
-Playlist: https://www.youtube.com/playlist?list=PL8bBYpHH3RI6Pp-kA9lmVt18ZZ2TWmmtI
+Django Todo adalah aplikasi berbasis web yang dibuat dengan Django, sebuah framework Python untuk pengembangan web. Aplikasi ini berfungsi sebagai task manager yang memungkinkan pengguna untuk menambahkan, mengedit, menyelesaikan, dan menghapus daftar tugas (to-do list).
+
+📌 Fitur Utama:
+✅ Menambahkan tugas baru
+✅ Menandai tugas sebagai selesai
+✅ Mengedit dan menghapus tugas
+
 
 ## Cara menjalankan Django Todo
 1. Install depedencies
@@ -23,10 +29,7 @@ python manage.py runserver
 ```
 5. Buka browser di 
 ```
-http://localhost:8000/todo
+http://localhost:8000
 ```
 
-6. Untuk login ke admin di
-```
-http://localhost:8000/admin
-```
+
